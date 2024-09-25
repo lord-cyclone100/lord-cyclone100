@@ -14,4 +14,4 @@
    <p>&nbsp;<img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-cyclone100&show_icons=true&theme=merko&locale=en&layout=compact" alt="Sangneel" /> </p>
 </div>
 
-
+[![An image of @lordcyclone100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lordcyclone100)](https://holopin.io/@lordcyclone100)
