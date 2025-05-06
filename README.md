@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I am Sangneel Deb
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-cyclone100&label=Profile%20views&color=0e75b6&style=flat" alt="Sangneel" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lord-cyclone100&theme=dracula&&column=-1&no-bg=true)](https://github.com/lord-cyclone100/github-profile-trophy)
@@ -34,6 +34,8 @@
    	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -41,4 +43,7 @@
    
 
 [![An image of @lordcyclone100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lordcyclone100)](https://holopin.io/@lordcyclone100)
+
+<div align="center"><img src="https://camo.githubusercontent.com/4c9034168c72043fe7a9ec848a3e3b7b3d04b3c28f39b66f73c4b168ccced0a2/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f737461626c65706172726f742e676966"></div>
+
 
