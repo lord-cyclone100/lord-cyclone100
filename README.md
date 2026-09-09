@@ -6,7 +6,7 @@
 I'm a passionate Computer Science & Engineering undergrad with over 6 years of programming experience. I love building real-world solutions through code and have a strong interest in Java, Machine Learning, Web Development, and UI/UX Design. Whether it's crafting seamless user interfaces or designing intelligent systems, I enjoy turning ideas into impactful, working products. Currently, I'm focused on honing my skills, contributing to open-source, and exploring innovative ways to bridge technology with everyday problems.
 
 ## 🖊️Fun Facts
-<table>
+<table align="center">
   <tr>
     <td>
       <ul>
@@ -16,7 +16,7 @@ I'm a passionate Computer Science & Engineering undergrad with over 6 years of p
       </ul>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="200">
+      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="400">
     </td>
   </tr>
 </table>
@@ -35,16 +35,32 @@ I'm a passionate Computer Science & Engineering undergrad with over 6 years of p
 
 
 ## 📊My Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=lord-cyclone100&theme=dracula&&column=-1&no-bg=true)](https://github.com/lord-cyclone100/github-profile-trophy)
 
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;" align="center">
+  <a href="https://github.com/Pranesh-2005/convoychat">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=lord-cyclone100&layout=donut&theme=merko&card_width=320" />
+  </a>
+  <a href="https://github.com/Pranesh-2005/convoychat">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=lord-cyclone100&theme=merko" />
+  </a>
+</div>
+
+<br/>
+
+<div style="display: flex; align-items: center; justify-content: center;" align="center">
+  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lord-cyclone100&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
+  </a>
+</div>
+
+<!-- <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lord-cyclone100&show_icons=true&rank_icon=github&theme=merko&card_width=280" />
 </div>
 
  <div align="center">
   <img src="https://streak-stats.demolab.com?user=lord-cyclone100&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /><br>
    <p>&nbsp;<img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-cyclone100&show_icons=true&theme=merko&locale=en&layout=compact" alt="Sangneel" /> </p>
-</div>
+</div> -->
 
 ### Thanks for having a look at my Github profile 🙏
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
