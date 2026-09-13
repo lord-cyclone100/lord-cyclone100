@@ -48,7 +48,7 @@ I'm a passionate Computer Science & Engineering undergrad with over 6 years of p
 <br/>
 
 <div style="display: flex; align-items: center; justify-content: center;" align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <a href="https://github.com/lord-cyclone100/">
     <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=lord-cyclone100&theme=merko&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
   </a>
 </div>
