@@ -16,7 +16,8 @@ I'm a passionate Computer Science & Engineering undergrad with over 6 years of p
       </ul>
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="400">
+      <!-- <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="400"> -->
+      <img src="./goku.gif" width="400">
     </td>
   </tr>
 </table>
